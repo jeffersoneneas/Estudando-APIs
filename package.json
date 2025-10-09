@@ -1,0 +1,15 @@
+{
+  "name": "estudando-apis",
+  "version": "1.0.0",
+  "description": "Colocando em prática os conhecimentos que aprendi no trabalho e fixando eles.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
