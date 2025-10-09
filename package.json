@@ -1,6 +1,7 @@
 {
   "name": "estudando-apis",
   "version": "1.0.0",
+  "type": "module",
   "description": "Colocando em prática os conhecimentos que aprendi no trabalho e fixando eles.",
   "main": "index.js",
   "scripts": {
