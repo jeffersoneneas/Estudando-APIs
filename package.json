@@ -5,12 +5,26 @@
   "description": "Colocando em prática os conhecimentos que aprendi no trabalho e fixando eles.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^5.1.0"
-  }
+    "@prisma/client": "^6.17.0",
+    "express": "^5.1.0",
+    "mongodb": "^6.20.0"
+  },
+  "devDependencies": {
+    "prisma": "^6.17.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeffersoneneas/Estudando-APIs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jeffersoneneas/Estudando-APIs/issues"
+  },
+  "homepage": "https://github.com/jeffersoneneas/Estudando-APIs#readme"
 }
